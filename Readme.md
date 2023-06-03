@@ -34,7 +34,7 @@
 [2422.Merge-Operations-to-Turn-Array-Into-a-Palindrome](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/2422.Merge-Operations-to-Turn-Array-Into-a-Palindrome) (H-)    
 * ``Sliding window``  
 [532.K-diff-Pairs-in-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/532.K-diff-Pairs-in-an-Array) (H-)   
-[611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   
+[O][611.Valid-Triangle-Number](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/611.Valid-Triangle-Number)	(M+)   
 [930.Binary-Subarrays-With-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Hash/930.Binary-Subarrays-With-Sum) (M+)   
 [1004.Max-Consecutive-Ones-III](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1004.Max-Consecutive-Ones-III) (M)   
 [1052.Grumpy-Bookstore-Owner](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/1052.Grumpy-Bookstore-Owner) (M)    
@@ -103,7 +103,7 @@
 [1231.Divide-Chocolate](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1231.Divide-Chocolate) (M)   
 [1283.Find-the-Smallest-Divisor-Given-a-Threshold](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1283.Find-the-Smallest-Divisor-Given-a-Threshold) (M)  
 [1292.Maximum-Side-Length-of-a-Square-with-Sum-Less-than-or-Equal-to-Threshold](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1292.Maximum-Side-Length-of-a-Square-with-Sum-Less-than-or-Equal-to-Threshold) (H-)  
-[1300.Sum-of-Mutated-Array-Closest-to-Target](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1300.Sum-of-Mutated-Array-Closest-to-Target) (M+)   
+[O][1300.Sum-of-Mutated-Array-Closest-to-Target](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1300.Sum-of-Mutated-Array-Closest-to-Target) (M+)   
 [1482.Minimum-Number-of-Days-to-Make-m-Bouquets](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1482.Minimum-Number-of-Days-to-Make-m-Bouquets) (M)  
 [1508.Range-Sum-of-Sorted-Subarray-Sums](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1508.Range-Sum-of-Sorted-Subarray-Sums) (M+)  
 [1552.Magnetic-Force-Between-Two-Balls](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1552.Magnetic-Force-Between-Two-Balls) (M)  
@@ -577,8 +577,8 @@
 * ``Dijkstra (BFS+PQ)``   
 [743.Network-Delay-Time](https://github.com/wisdompeak/LeetCode/tree/master/BFS/743.Network-Delay-Time) (H-)    
 [407.Trapping-Rain-Water-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/407.Trapping-Rain-Water-II) (H)      
-[778.Swim-in-Rising-Water](https://github.com/wisdompeak/LeetCode/tree/master/BFS/778.Swim-in-Rising-Water) (H)    
-[2503.Maximum-Number-of-Points-From-Grid-Queries](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2503.Maximum-Number-of-Points-From-Grid-Queries) (H-)    
+[O][778.Swim-in-Rising-Water](https://github.com/wisdompeak/LeetCode/tree/master/BFS/778.Swim-in-Rising-Water) (H)    
+[O][2503.Maximum-Number-of-Points-From-Grid-Queries](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2503.Maximum-Number-of-Points-From-Grid-Queries) (H-)    
 [505.The-Maze-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/505.The-Maze-II) (H-)  
 [499.The-Maze-III](https://github.com/wisdompeak/LeetCode/tree/master/BFS/499.The-Maze-III) (H)    
 [787.Cheapest-Flights-Within-K-Stops](https://github.com/wisdompeak/LeetCode/tree/master/Graph/787.Cheapest-Flights-Within-K-Stops) (H)    
