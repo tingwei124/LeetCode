@@ -1,4 +1,4 @@
-### 034.Search-for-a-Range
+### 034. Find-First-and-Last-Position-of-Element-in-Sorted-Array
 
 #### 寻找下界函数lower_bound()	
 ```cpp
@@ -58,4 +58,4 @@ else
 
 
 
-[Leetcode Link](https://leetcode.com/problems/search-for-a-range)
+[Leetcode Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
